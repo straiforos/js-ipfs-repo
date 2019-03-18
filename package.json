@@ -67,7 +67,7 @@
     "ipfs-block": "~0.8.0",
     "just-safe-set": "^2.1.0",
     "multiaddr": "^6.0.6",
-    "proper-lockfile": "github:alanshaw/node-proper-lockfile#logs",
+    "proper-lockfile": "github:alanshaw/node-proper-lockfile#fix/second-precision",
     "pull-stream": "^3.6.9",
     "sort-keys": "^2.0.0"
   },
